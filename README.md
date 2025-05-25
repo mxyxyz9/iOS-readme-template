@@ -1,10 +1,9 @@
-
-[![Swift Version][swift-image]][swift-url]
-[![License][license-image]][license-url]
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
-[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/EZSwiftExtensions.svg)](https://img.shields.io/cocoapods/v/LFAlertController.svg)  
-[![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Swift 6.0+](https://img.shields.io/badge/Swift-6.0+-FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org/)
+[![License MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&logo=opensource&logoColor=white)](https://opensource.org/licenses/MIT)
+[![Swift Package Manager](https://img.shields.io/badge/SPM-Compatible-4BC51D.svg?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/apple/swift-package-manager)
+[![iOS 17.0+](https://img.shields.io/badge/iOS-17.0+-007AFF.svg?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/ios/)
+[![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20macOS%20%7C%20watchOS%20%7C%20tvOS-lightgrey.svg?style=for-the-badge&logo=apple)](https://developer.apple.com/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge&logo=github)](http://makeapullrequest.com)
 
 # Product Name
 <br />
